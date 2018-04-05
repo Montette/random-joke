@@ -44,8 +44,8 @@ body {
    box-shadow: rgba(0,0,0,1) 0 1px 0;
    text-shadow: rgba(0,0,0,.4) 0 1px 0;
    color: white;
-   font-size: 21px;
-   font-family: Georgia, serif;
+   font-size: 17px;
+    font-weight: 700;
    text-decoration: none;
    vertical-align: middle;
     position: absolute;
@@ -53,6 +53,7 @@ body {
     outline: none;
     height: 50px;
     width: 170px;
+    text-transform: uppercase;
    }
 .random:hover {
    border-top-color: #6ca16a;
