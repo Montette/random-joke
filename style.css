@@ -24,6 +24,7 @@ body {
 .container__joke {
     padding: 100px 100px 100px 50px;
     position: relative;
+    width: 50%;
 }
 
 .random {
