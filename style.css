@@ -50,6 +50,8 @@ body {
     position: absolute;
     left: 50px;
     outline: none;
+    height: 50px;
+    width: 170px;
    }
 .random:hover {
    border-top-color: #6ca16a;
