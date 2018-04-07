@@ -17,3 +17,74 @@ function getJoke() {
     });
     xhr.send();
 }
+
+
+
+/*
+
+Jquery
+
+var url = 'https://api.icndb.com/jokes/random';
+var $button = $('#get-joke');
+var $paragraph = $('#joke');
+
+$button.click(function(){
+    getJoke();
+});
+
+function getJoke(){
+    $.ajax({
+        url: url,
+        method: 'GET',
+        success: function(res){
+            $paragraph.text(res.value.joke)
+        }        
+    })
+}
+
+getJoke();
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
